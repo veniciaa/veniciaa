@@ -1,7 +1,7 @@
 #About me
 
 
-**veniciaa/veniciaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨*veniciaa/veniciaa*✨
 
 - 🔭 I’m currently working on my own knitting project 
 - 🌱 I’m currently learning how to crochet
